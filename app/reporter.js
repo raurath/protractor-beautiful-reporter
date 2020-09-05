@@ -134,7 +134,7 @@ function ScreenshotReporter(options) {
     this.takeScreenShotsForSkippedSpecs =
         options.takeScreenShotsForSkippedSpecs || false;
     this.gatherBrowserLogs =
-        options.gatherBrowserLogs || true;
+        options.gatherBrowserLogs || false;
     this.takeScreenShotsOnlyForFailedSpecs =
         options.takeScreenShotsOnlyForFailedSpecs || false;
     this.disableScreenshots = options.disableScreenshots || false;
