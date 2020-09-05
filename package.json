@@ -1,6 +1,6 @@
 {
   "name": "protractor-beautiful-reporter",
-  "version": "1.3.6",
+  "version": "1.3.6-browserlog-inactive",
   "description": "An npm module and which generates your Protractor test reports in HTML (angular) with screenshots",
   "main": "index.js",
   "repository": {
